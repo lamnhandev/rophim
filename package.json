@@ -2,7 +2,7 @@
   "name": "@your-scope/rophimtv",
   "version": "1.0.0",
   "description": "TizenBrew module that launches https://rophim.me on Samsung Tizen TVs",
-  "author": "lamnhandev",
+  "author": "Your Name",
   "license": "MIT",
   "tizenbrew": {
     "apps": ["./apps/RophimTV"]
