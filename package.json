@@ -1,0 +1,17 @@
+{
+  "name": "@lamnhandev/rophim",
+  "appName": "rophim",
+  "version": "1.0.0",
+  "description": "Module TizenBrew m\u1edf trang rophim.me tr\u00ean TV",
+  "packageType": "app",
+  "websiteURL": "https://rophim.me",
+  "serviceFile": "index.js",
+  "keywords": [
+    "tizen",
+    "tizenbrew",
+    "rophim",
+    "tv"
+  ],
+  "author": "lamnhandev",
+  "license": "MIT"
+}
