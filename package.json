@@ -5,7 +5,6 @@
   "description": "Module TizenBrew m\u1edf trang rophim.me tr\u00ean TV",
   "packageType": "app",
   "websiteURL": "https://rophim.me",
-  "serviceFile": "index.js",
   "keywords": [
     "tizen",
     "tizenbrew",
